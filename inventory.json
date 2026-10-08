@@ -1,6 +1,6 @@
 {
   "dealership": "Jonker Honda",
-  "generated_at": "2026-09-26T10:50:26",
+  "generated_at": "2026-10-08T14:38:32",
   "vehicle_count": 136,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "4S4BRGGCXB3335822",
       "stock": "HI8225A",
       "color": "Grey",
+      "trim": "2.5i Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/e87d4836124a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2011/subaru/outback/surrey/bc/71347951/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2011/subaru/outback/surrey/bc/71347951/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 200045,
       "year": 2011,
       "make": "Subaru",
-      "model": "Outback 2.5i Sport w/Limited Pkg",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Civic Sedan LX",
       "vin": "2HGFB2F46EH029713",
       "stock": "CX2T170",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/02354cf4c19c.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2014/honda/civic-sedan/surrey/bc/71368322/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2014/honda/civic-sedan/surrey/bc/71368322/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 162190,
       "year": 2014,
       "make": "Honda",
-      "model": "Civic Sedan LX",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2014 Honda CR-V EX",
       "vin": "2HKRM4H50EH120362",
       "stock": "CX2T407",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/6318c99ee07e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2014/honda/cr-v/surrey/bc/71055129/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2014/honda/cr-v/surrey/bc/71055129/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 140943,
       "year": 2014,
       "make": "Honda",
-      "model": "CR-V EX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2014 Honda CR-V EX",
       "vin": "2HKRM4H59EH106329",
       "stock": "CX2T271",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/2095bc9f56f5.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2014/honda/cr-v/surrey/bc/71098414/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2014/honda/cr-v/surrey/bc/71098414/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 172447,
       "year": 2014,
       "make": "Honda",
-      "model": "CR-V EX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Escape Titanium",
       "vin": "1FMCU9J92FUA95256",
       "stock": "HI8156B",
       "color": "Red",
+      "trim": "Titanium",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/229c88e22817.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2015/ford/escape/surrey/bc/70893909/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2015/ford/escape/surrey/bc/70893909/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 178678,
       "year": 2015,
       "make": "Ford",
-      "model": "Escape Titanium",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Escape SE",
       "vin": "1FMCU0G75FUB43222",
       "stock": "CX2T419",
       "color": "Grey",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/1591c7de04cb.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2015/ford/escape/surrey/bc/71339933/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2015/ford/escape/surrey/bc/71339933/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 159309,
       "year": 2015,
       "make": "Ford",
-      "model": "Escape SE",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Civic 4dr Auto EX",
       "vin": "2HGFB2F52FH002857",
       "stock": "D2V00AE",
       "color": "Grey",
+      "trim": "Auto EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/b1b5785041ed.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2015/honda/civic/surrey/bc/71399948/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2015/honda/civic/surrey/bc/71399948/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 89418,
       "year": 2015,
       "make": "Honda",
-      "model": "Civic 4dr Auto EX",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V 2WD 5dr LX",
       "vin": "2HKRM3H36FH002648",
       "stock": "AU8210A",
       "color": "White",
+      "trim": "5dr LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/c18e5ee22483.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2015/honda/cr-v/surrey/bc/71243823/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2015/honda/cr-v/surrey/bc/71243823/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 211769,
       "year": 2015,
       "make": "Honda",
-      "model": "CR-V 2WD 5dr LX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Volkswagen Tiguan Trendline",
       "vin": "WVGJV7AX0FW532599",
       "stock": "CX2T387",
       "color": "Blue",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/2743a81954d3.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2015/volkswagen/tiguan/surrey/bc/70871084/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2015/volkswagen/tiguan/surrey/bc/70871084/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 183419,
       "year": 2015,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Acura ILX Premium Pkg",
       "vin": "19UDE2F70GA800192",
       "stock": "HI8239E",
       "color": "White",
+      "trim": "Premium Pkg",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/691fc410b0a3.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2016/acura/ilx/surrey/bc/71388548/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2016/acura/ilx/surrey/bc/71388548/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 228479,
       "year": 2016,
       "make": "Acura",
-      "model": "ILX Premium Pkg",
-      "condition": "used"
+      "model": "ILX",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Honda Pilot Touring",
       "vin": "5FNYF6H91GB508075",
       "stock": "HI8222E",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/adf897ae312d.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2016/honda/pilot/surrey/bc/71316522/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2016/honda/pilot/surrey/bc/71316522/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 217570,
       "year": 2016,
       "make": "Honda",
-      "model": "Pilot Touring",
-      "condition": "used"
+      "model": "Pilot",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic Sedan Touring",
       "vin": "2HGFC1F92JH106106",
       "stock": "HI8235E",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/b9e4b8fd928e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2018/honda/civic-sedan/surrey/bc/71348007/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2018/honda/civic-sedan/surrey/bc/71348007/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 18227,
       "year": 2018,
       "make": "Honda",
-      "model": "Civic Sedan Touring",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Pathfinder SL Premium",
       "vin": "5N1DR2MM1JC614728",
       "stock": "AU8100E",
       "color": "Grey",
+      "trim": "SL Premium",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/0b4936712988.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2018/nissan/pathfinder/surrey/bc/70080031/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2018/nissan/pathfinder/surrey/bc/70080031/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 110648,
       "year": 2018,
       "make": "Nissan",
-      "model": "Pathfinder SL Premium",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Type R Type R",
       "vin": "SHHFK8G39KU300402",
       "stock": "HI8164E",
       "color": "White",
+      "trim": "Type R Type R",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/6b1161853103.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2019/honda/civic-type-r/surrey/bc/70576251/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2019/honda/civic-type-r/surrey/bc/70576251/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 104823,
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Type R Type R",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Honda CR-V LX",
       "vin": "2HKRW2H2XKH107764",
       "stock": "CX2T358",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/08d2773b708a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2019/honda/cr-v/surrey/bc/71084742/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2019/honda/cr-v/surrey/bc/71084742/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 61451,
       "year": 2019,
       "make": "Honda",
-      "model": "CR-V LX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Honda CR-V EX",
       "vin": "2HKRW2H52KH151610",
       "stock": "HI8199A",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/0d04436ed08f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2019/honda/cr-v/surrey/bc/71235646/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2019/honda/cr-v/surrey/bc/71235646/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 98102,
       "year": 2019,
       "make": "Honda",
-      "model": "CR-V EX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Crosstrek Sport",
       "vin": "JF2GTAGC4K8344738",
       "stock": "HV2T37A",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/c285ffc0e08a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2019/subaru/crosstrek/surrey/bc/71286688/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2019/subaru/crosstrek/surrey/bc/71286688/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 103762,
       "year": 2019,
       "make": "Subaru",
-      "model": "Crosstrek Sport",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 BMW 3 Series Sedan 330i xDrive",
       "vin": "WBA5R7C07LFH52621",
       "stock": "CX2T351",
       "color": "Black",
+      "trim": "330i xDrive",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/e8d1888c56ec.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2020/bmw/3-series-sedan/surrey/bc/71276639/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2020/bmw/3-series-sedan/surrey/bc/71276639/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 99678,
       "year": 2020,
       "make": "BMW",
-      "model": "3 Series Sedan 330i xDrive",
-      "condition": "used"
+      "model": "3 Series",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra Luxury IVT",
       "vin": "KMHD84LF3LU968944",
       "stock": "CZ2T183",
       "color": "White",
+      "trim": "Luxury IVT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/f2cee4fa24ed.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2020/hyundai/elantra/surrey/bc/71244106/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2020/hyundai/elantra/surrey/bc/71244106/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 114383,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra Luxury IVT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Honda CR-V EX-L",
       "vin": "2HKRW2H84MH232377",
       "stock": "HI8190E",
       "color": "Silver",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/83efd207fd9e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2021/honda/cr-v/surrey/bc/70894475/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2021/honda/cr-v/surrey/bc/70894475/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 107430,
       "year": 2021,
       "make": "Honda",
-      "model": "CR-V EX-L",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Honda CR-V LX 2WD",
       "vin": "2HKRW1H22MH002682",
       "stock": "CR2T70A",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/f3a4a51dfcce.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2021/honda/cr-v/surrey/bc/71400307/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2021/honda/cr-v/surrey/bc/71400307/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 102667,
       "year": 2021,
       "make": "Honda",
-      "model": "CR-V LX 2WD",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan Touring",
       "vin": "2HGFE1F98NH005930",
       "stock": "HI8141E",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/8138623f5540.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2022/honda/civic-sedan/surrey/bc/70247623/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2022/honda/civic-sedan/surrey/bc/70247623/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 79498,
       "year": 2022,
       "make": "Honda",
-      "model": "Civic Sedan Touring",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan EX",
       "vin": "2HGFE2F39NH104287",
       "stock": "HI8180E",
       "color": "Blue",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/6e7aaded7b8f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2022/honda/civic-sedan/surrey/bc/70779608/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2022/honda/civic-sedan/surrey/bc/70779608/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 101693,
       "year": 2022,
       "make": "Honda",
-      "model": "Civic Sedan EX",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Odyssey EX-L Navi",
       "vin": "5FNRL6H6XNB501559",
       "stock": "HI8185E",
       "color": "White",
+      "trim": "EX-L Navi",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/417ba6a0e78f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2022/honda/odyssey/surrey/bc/70820486/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2022/honda/odyssey/surrey/bc/70820486/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 38305,
       "year": 2022,
       "make": "Honda",
-      "model": "Odyssey EX-L Navi",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Altima 2.5 SE",
       "vin": "1N4BL4BW4NN335562",
       "stock": "AU8211E",
       "color": "White",
+      "trim": "2.5 SE",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/606dd878297e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2022/nissan/altima/surrey/bc/71166698/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2022/nissan/altima/surrey/bc/71166698/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 23066,
       "year": 2022,
       "make": "Nissan",
-      "model": "Altima 2.5 SE",
-      "condition": "used"
+      "model": "Altima",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Civic Sedan EX-B",
       "vin": "2HGFE2F37PH110673",
       "stock": "HI8223E",
       "color": "Silver",
+      "trim": "EX-B",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/cd72a19c3267.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2023/honda/civic-sedan/surrey/bc/71268413/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2023/honda/civic-sedan/surrey/bc/71268413/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 23909,
       "year": 2023,
       "make": "Honda",
-      "model": "Civic Sedan EX-B",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H8XPB500724",
       "stock": "HI8227E",
       "color": "White",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/6ba6514d3db5.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2023/honda/odyssey/surrey/bc/71366450/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2023/honda/odyssey/surrey/bc/71366450/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 83010,
       "year": 2023,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Sentra Sedan SR CVT",
       "vin": "3N1AB8DV4PY282844",
       "stock": "HI8229E",
       "color": "White",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/072d3663f252.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2023/nissan/sentra-sedan/surrey/bc/71316524/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2023/nissan/sentra-sedan/surrey/bc/71316524/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 76834,
       "year": 2023,
       "make": "Nissan",
-      "model": "Sentra Sedan SR CVT",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Malibu Sedan 1LT",
       "vin": "1G1ZD5ST5RF170602",
       "stock": "AU8026E",
       "color": "Silver",
+      "trim": "1LT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/085abd560db6.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/chevrolet/malibu-sedan/surrey/bc/69341510/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/chevrolet/malibu-sedan/surrey/bc/69341510/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 45750,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Malibu Sedan 1LT",
-      "condition": "used"
+      "model": "Malibu",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Civic Sedan EX CVT",
       "vin": "2HGFE2F34RH111573",
       "stock": "HI8246E",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/8a818edbdc62.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/civic-sedan/surrey/bc/71412890/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/civic-sedan/surrey/bc/71412890/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -510,14 +598,17 @@
       "odometer_km": 23183,
       "year": 2024,
       "make": "Honda",
-      "model": "Civic Sedan EX CVT",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H98RH204813",
       "stock": "HI8171E",
       "color": "Red",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/f1af6efb8270.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v-hybrid/surrey/bc/70721110/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v-hybrid/surrey/bc/70721110/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,14 +618,17 @@
       "odometer_km": 73234,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H96RH202624",
       "stock": "HI8219E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/cc4dc95fe86b.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v-hybrid/surrey/bc/71268403/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v-hybrid/surrey/bc/71268403/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -544,14 +638,17 @@
       "odometer_km": 48677,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Sport",
       "vin": "2HKRS4H55RH104377",
       "stock": "CX2T423",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/255f97cb4992.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v/surrey/bc/71388544/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/cr-v/surrey/bc/71388544/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -561,14 +658,17 @@
       "odometer_km": 44460,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V LX-B",
       "vin": "3CZRZ2H31RM103553",
       "stock": "HI8197E",
       "color": "Grey",
+      "trim": "LX-B",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/94a8555c832a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/hr-v/surrey/bc/71003828/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/hr-v/surrey/bc/71003828/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -578,14 +678,17 @@
       "odometer_km": 33674,
       "year": 2024,
       "make": "Honda",
-      "model": "HR-V LX-B",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H83RB500020",
       "stock": "HI8237E",
       "color": "Grey",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/b40730da9301.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/odyssey/surrey/bc/71388549/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/odyssey/surrey/bc/71388549/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -595,14 +698,17 @@
       "odometer_km": 45706,
       "year": 2024,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Passport Black Edition",
       "vin": "5FNYF8H81RB500676",
       "stock": "HI8236E",
       "color": "Black",
+      "trim": "Black Edition",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/8d458bd1d60e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/passport/surrey/bc/71368664/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/passport/surrey/bc/71368664/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -612,14 +718,17 @@
       "odometer_km": 39007,
       "year": 2024,
       "make": "Honda",
-      "model": "Passport Black Edition",
-      "condition": "used"
+      "model": "Passport",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Prologue Touring AWD",
       "vin": "3GPKHZRJ3RS503530",
       "stock": "HI8245E",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/42080ea32444.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/honda/prologue/surrey/bc/71400308/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/honda/prologue/surrey/bc/71400308/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -629,8 +738,10 @@
       "odometer_km": 25111,
       "year": 2024,
       "make": "Honda",
-      "model": "Prologue Touring AWD",
-      "condition": "used"
+      "model": "Prologue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -647,13 +758,16 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks S",
       "vin": "3N1CP5BV4RL488466",
       "stock": "AU8212E",
       "color": "Blue",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/5eec83c809ae.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/nissan/kicks/surrey/bc/71166625/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/nissan/kicks/surrey/bc/71166625/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -663,14 +777,17 @@
       "odometer_km": 138,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks S",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue SV Moonroof",
       "vin": "JN8BT3BB6RW437726",
       "stock": "AU8231E",
       "color": "Black",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/4bab2d4ebb07.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/nissan/rogue/surrey/bc/71366698/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/nissan/rogue/surrey/bc/71366698/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -680,14 +797,17 @@
       "odometer_km": 10644,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue SV Moonroof",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa S",
       "vin": "3N1CN8DV0RL846487",
       "stock": "AU8124E",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/4236c8999af6.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/nissan/versa/surrey/bc/70114298/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/nissan/versa/surrey/bc/70114298/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -697,14 +817,17 @@
       "odometer_km": 51418,
       "year": 2024,
       "make": "Nissan",
-      "model": "Versa S",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Crew Cab Sport",
       "vin": "1C6SRFVT3RN145755",
       "stock": "CX2T367",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/91a5ea626b81.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/ram/1500-crew-cab/surrey/bc/71117347/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/ram/1500-crew-cab/surrey/bc/71117347/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -714,14 +837,17 @@
       "odometer_km": 30789,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Crew Cab Sport",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR86 Manual",
       "vin": "JF1ZNBB12R9753599",
       "stock": "HI8226A",
       "color": "Blue",
+      "trim": "Manual",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/a1683f577ea4.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2024/toyota/gr86/surrey/bc/71366448/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2024/toyota/gr86/surrey/bc/71366448/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -731,14 +857,17 @@
       "odometer_km": 27971,
       "year": 2024,
       "make": "Toyota",
-      "model": "GR86 Manual",
-      "condition": "used"
+      "model": "GR86",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F82SH010934",
       "stock": "HI8228E",
       "color": "Blue",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/e6c86abe99cc.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2025/honda/civic-sedan/surrey/bc/71303006/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2025/honda/civic-sedan/surrey/bc/71303006/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -748,14 +877,17 @@
       "odometer_km": 29519,
       "year": 2025,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F85SH000303",
       "stock": "HI8238E",
       "color": "Silver",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/f3af4fc2adbc.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2025/honda/civic-sedan/surrey/bc/71388282/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2025/honda/civic-sedan/surrey/bc/71388282/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -765,14 +897,17 @@
       "odometer_km": 22892,
       "year": 2025,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H9XSH207556",
       "stock": "HI8234E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/4443e1d49fa7.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2025/honda/cr-v-hybrid/surrey/bc/71367232/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2025/honda/cr-v-hybrid/surrey/bc/71367232/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,14 +917,17 @@
       "odometer_km": 13462,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V EX-L Navi",
       "vin": "3CZRZ2H79SM108315",
       "stock": "HI8208E",
       "color": "Grey",
+      "trim": "EX-L Navi",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/55d3d4b156a3.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2025/honda/hr-v/surrey/bc/71105572/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2025/honda/hr-v/surrey/bc/71105572/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -799,14 +937,17 @@
       "odometer_km": 7542,
       "year": 2025,
       "make": "Honda",
-      "model": "HR-V EX-L Navi",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander SEL",
       "vin": "JA4J4VA82SZ619590",
       "stock": "PT2T02A",
       "color": "Grey",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/2a8e1c8386ce.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2025/mitsubishi/outlander/surrey/bc/70991952/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2025/mitsubishi/outlander/surrey/bc/70991952/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -816,14 +957,17 @@
       "odometer_km": 25382,
       "year": 2025,
       "make": "Mitsubishi",
-      "model": "Outlander SEL",
-      "condition": "used"
+      "model": "Outlander",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H55TH206975",
       "stock": "HI8205E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/69de0be816d4.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71045041/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71045041/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -833,14 +977,17 @@
       "odometer_km": 6421,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H57TH204788",
       "stock": "HI8203E",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/9faed4a8d7aa.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71045049/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71045049/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,14 +997,17 @@
       "odometer_km": 9804,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H55TH206491",
       "stock": "HI8206E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/424496ed64e8.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71058731/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71058731/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -867,14 +1017,17 @@
       "odometer_km": 8292,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H50TH206978",
       "stock": "HI8215E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/36e3a9f7fd59.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71174410/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71174410/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -884,14 +1037,17 @@
       "odometer_km": 9602,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V Turbo Sport Sport",
       "vin": "3CZRZ2H50TM105769",
       "stock": "CR2T59A",
       "color": "Grey",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/2f1b31a43aa2.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/hr-v-turbo-sport/surrey/bc/71303767/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/hr-v-turbo-sport/surrey/bc/71303767/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -901,14 +1057,17 @@
       "odometer_km": 10463,
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V EX-L",
       "vin": "3CZRZ2H73TM105590",
       "stock": "HI8224E",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/68eb0b7016a8.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/hr-v/surrey/bc/71287053/?sale_class=used",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/hr-v/surrey/bc/71287053/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -918,14 +1077,17 @@
       "odometer_km": 17523,
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V EX-L",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F86TA800140",
       "stock": "AB2T02E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/c83983be15a6.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69438793/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69438793/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -935,14 +1097,17 @@
       "odometer_km": 980,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F85TA800582",
       "stock": "AB2T06E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/fba0c101abce.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69657820/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69657820/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -952,14 +1117,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L",
       "vin": "1HGCY2F77TA800476",
       "stock": "AB2T05E",
       "color": "White",
+      "trim": "Sport-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/2747e1c6035e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69657822/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69657822/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -969,14 +1137,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F82TA800796",
       "stock": "AB2T12E",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/39ccc5e4a8a7.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69959231/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69959231/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -986,14 +1157,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L",
       "vin": "1HGCY2F72TA800644",
       "stock": "AB2T09E",
       "color": "Grey",
+      "trim": "Sport-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/5265fba7eada.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69959236/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/69959236/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1003,14 +1177,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L",
       "vin": "1HGCY2F71TA800926",
       "stock": "AB2T14E",
       "color": "Black",
+      "trim": "Sport-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/5a96e8234d95.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/70246564/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/70246564/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1020,14 +1197,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F84TA801755",
       "stock": "AB2T21E",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/e065394316c7.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/70696845/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/70696845/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,14 +1217,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F81TA801812",
       "stock": "AB2T23E",
       "color": "Grey",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/a30129bd8d42.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71083740/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71083740/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1054,14 +1237,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring",
       "vin": "1HGCY2F88TA800964",
       "stock": "AB2T13E",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/af4bacd40a12.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71107066/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71107066/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1071,14 +1257,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT",
       "vin": "1HGCY2F85TA801912",
       "stock": "AB2T25E",
       "color": "Blue",
+      "trim": "Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/f559c4b6a384.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71325956/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71325956/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1088,14 +1277,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Sport-L eCVT",
       "vin": "1HGCY2F70TA802053",
       "stock": "AB2T24E",
       "color": "Silver",
+      "trim": "Sport-L eCVT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/49d270446513.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71325958/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-hybrid/surrey/bc/71325958/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1105,14 +1297,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Sport-L eCVT",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan SE",
       "vin": "1HGCY1F43TA800037",
       "stock": "A2T00E",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/170534097290.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/69238088/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/69238088/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1122,14 +1317,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedan SE",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan SE",
       "vin": "1HGCY1F46TA800145",
       "stock": "A2T04E",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/bb97439a3ebb.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/69882410/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/69882410/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1139,14 +1337,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedan SE",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan SE",
       "vin": "1HGCY1F40TA800187",
       "stock": "A2T05E",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/53e8a1d03f7e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/70349480/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/accord-sedan/surrey/bc/70349480/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,14 +1357,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedan SE",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F81TH011638",
       "stock": "CZ2T137",
       "color": "White",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/670ce479bfea.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/69972888/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/69972888/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1173,14 +1377,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F89TH014948",
       "stock": "CZ2T178",
       "color": "Blue",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/70df03f6cd88.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70441076/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70441076/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1190,14 +1397,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F86TH014924",
       "stock": "CZ2T176",
       "color": "Blue",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/eef84a92f2d9.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70441432/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70441432/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1207,14 +1417,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F80TH002087",
       "stock": "CZ2T30E",
       "color": "Silver",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/b14496d121fd.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70758026/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70758026/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1224,14 +1437,17 @@
       "odometer_km": 4602,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX",
       "vin": "2HGFE2F24TH114973",
       "stock": "CS2T71E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/354ac46b9048.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70869005/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70869005/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1241,14 +1457,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE2F53TH115199",
       "stock": "CS2T75E",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/676cacab1917.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70926063/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70926063/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1258,14 +1477,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport CVT",
       "vin": "2HGFE2F59TH115708",
       "stock": "CS2T78E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/26990dd35ab5.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70970915/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70970915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1275,14 +1497,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE2F52TH115713",
       "stock": "CS2T79E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/399ff2f0c4ac.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70970917/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/70970917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1292,14 +1517,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring",
       "vin": "2HGFE4F86TH017869",
       "stock": "CZ2T203",
       "color": "Blue",
+      "trim": "Sport Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/d144f65c9842.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71014950/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71014950/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1309,14 +1537,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX",
       "vin": "2HGFE2F22TH116754",
       "stock": "CS2T84E",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/6c59351d3468.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71128638/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71128638/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1326,14 +1557,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport Touring eCVT",
       "vin": "2HGFE4F85TH018754",
       "stock": "CZ2T214",
       "color": "White",
+      "trim": "Sport Touring eCVT",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/fbe7c642c709.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71128642/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71128642/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1343,14 +1577,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport Touring eCVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F25TH117428",
       "stock": "CS2T88E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/8145ac88f09d.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71252489/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71252489/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1360,14 +1597,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan LX CVT",
       "vin": "2HGFE2F2XTH117425",
       "stock": "CS2T87E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/28b0b7004add.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71252491/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71252491/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1377,14 +1617,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan LX CVT",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Sport",
       "vin": "2HGFE4F82TH019523",
       "stock": "CZ2T220",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/ea850772be43.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71276643/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-sedan/surrey/bc/71276643/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1394,14 +1637,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Sport",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Si Sedan Manual",
       "vin": "2HGFE1E51TH080982",
       "stock": "CS2T48E",
       "color": "Grey",
+      "trim": "Si Manual",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/4d40cfda15cd.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-si-sedan/surrey/bc/70220797/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/civic-si-sedan/surrey/bc/70220797/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1411,14 +1657,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Si Sedan Manual",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H77TH235685",
       "stock": "CX2T360",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/9409053baac8.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70365693/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70365693/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1428,14 +1677,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H72TH235772",
       "stock": "CX2T361",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/9a69e2d24c44.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70430020/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70430020/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1445,14 +1697,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H92TH244246",
       "stock": "CX2T379",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/214205d59554.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70561794/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70561794/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1462,14 +1717,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H75TH244112",
       "stock": "CX2T383",
       "color": "Blue",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/f94fa237d1d8.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70587485/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70587485/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1479,14 +1737,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H97TH249085",
       "stock": "CX2T410",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/35e9bc2da5ec.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70991954/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/70991954/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1496,14 +1757,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWD",
       "vin": "2HKRS6H71TH249369",
       "stock": "CX2T411",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/1b282d7038e5.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71056088/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71056088/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1777,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H91TH224053",
       "stock": "CX2T218",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/9c564622786f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71106493/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71106493/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1530,14 +1797,17 @@
       "odometer_km": 5056,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H59TH251076",
       "stock": "CX2T414",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/52445e083975.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128637/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128637/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1547,14 +1817,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWD",
       "vin": "2HKRS6H5XTH251085",
       "stock": "CX2T415",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/b03401bbbb5c.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128644/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128644/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1564,14 +1837,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H53TH251087",
       "stock": "CX2T416",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/551cd76d541e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128645/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71128645/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1581,14 +1857,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport",
       "vin": "2HKRS6H57TH250945",
       "stock": "CX2T418",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/e52d405ff23f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71140051/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71140051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1598,14 +1877,17 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring",
       "vin": "2HKRS6H90TH251339",
       "stock": "CX2T420",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/9e1a45bdad52.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71140052/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71140052/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1615,14 +1897,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Touring AWD",
       "vin": "2HKRS6H92TH251780",
       "stock": "CX2T426",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/cd2315843d0b.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71402271/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v-hybrid/surrey/bc/71402271/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1632,14 +1917,17 @@
       "odometer_km": 95,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H58TH108530",
       "stock": "CR2T34E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/a7261bad8f22.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69468697/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69468697/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1649,14 +1937,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H5XTH109341",
       "stock": "CR2T35E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/464095af5196.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69623612/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69623612/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1666,14 +1957,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H55TH110428",
       "stock": "CR2T42E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/8b8059c6f53e.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69819771/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/69819771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1683,14 +1977,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H59TH112098",
       "stock": "CR2T48E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/ede29d6b58cc.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70031442/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70031442/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1700,14 +1997,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H56TH111717",
       "stock": "CR2T49E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/327121658beb.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70031445/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70031445/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1717,14 +2017,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H53TH113277",
       "stock": "CR2T52E",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/d9e54e71aea0.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70191084/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70191084/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1734,14 +2037,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H58TH114019",
       "stock": "CR2T53E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/016d393b6b89.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70234186/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70234186/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1751,14 +2057,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H54TH113904",
       "stock": "CR2T55E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/23b3849943cd.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70267519/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70267519/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1768,14 +2077,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H56TH114018",
       "stock": "CR2T54E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/3cbfba36164a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70267526/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70267526/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1785,14 +2097,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H58TH114750",
       "stock": "CR2T62E",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/d5dde4301e79.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70388655/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70388655/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1802,14 +2117,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H54TH118228",
       "stock": "CR2T64E",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/d7bed924f4d7.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70939583/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/70939583/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1819,14 +2137,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport",
       "vin": "2HKRS4H51TH119367",
       "stock": "CR2T65E",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/cfb227b24cd6.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71056093/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71056093/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1836,14 +2157,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWD",
       "vin": "2HKRS4H59TH119522",
       "stock": "CR2T66E",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/48aab78953ff.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71083743/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71083743/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1853,14 +2177,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX",
       "vin": "2HKRS4H26TH119256",
       "stock": "CR2T67E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/f16b79e66a10.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71187234/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71187234/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1870,14 +2197,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX AWD",
       "vin": "2HKRS4H21TH120265",
       "stock": "CR2T68E",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/777a4a68a850.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71293099/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/cr-v/surrey/bc/71293099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1887,14 +2217,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot TrailSport",
       "vin": "5FNYG1H67TB504645",
       "stock": "PT2T27E",
       "color": "Black",
+      "trim": "TrailSport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/63d85ada54b9.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/70880645/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/70880645/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1904,14 +2237,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot TrailSport",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot TrailSport",
       "vin": "5FNYG1H60TB504809",
       "stock": "PT2T30E",
       "color": "White",
+      "trim": "TrailSport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/434c29a74bdd.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/70993531/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/70993531/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1921,14 +2257,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot TrailSport",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Touring AWD",
       "vin": "5FNYG1H75TB504975",
       "stock": "PT2T32E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/12707ee4a6ec.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/71128635/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/71128635/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1938,14 +2277,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Touring AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot Touring AWD",
       "vin": "5FNYG1H74TB504501",
       "stock": "PT2T25E",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/6656716d029f.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/71132423/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2026/honda/pilot/surrey/bc/71132423/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1955,14 +2297,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot Touring AWD",
-      "condition": "new"
+      "model": "Pilot",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Touring",
       "vin": "2HKRS6H92VH200458",
       "stock": "CX2V02E",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/cbd441177cba.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376922/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376922/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1972,14 +2317,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Touring",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS6H56VH200024",
       "stock": "CX2V00E",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/c1fc6d684d9b.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376923/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376923/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1989,14 +2337,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L",
       "vin": "2HKRS6H7XVH200612",
       "stock": "CX2V04E",
       "color": "Blue",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/51209a7eea8d.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376924/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376924/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2006,14 +2357,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS6H58VH200266",
       "stock": "CX2V01E",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/e7391320c05a.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376925/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376925/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2023,14 +2377,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport AWD",
       "vin": "2HKRS4H58VH100379",
       "stock": "CR2V02E",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/b63ed3265254.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376926/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376926/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2040,14 +2397,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS6H52VH200635",
       "stock": "CX2V03E",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/08477bc6b290.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376927/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376927/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2057,14 +2417,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L",
       "vin": "2HKRS6H79VH201475",
       "stock": "CX2V05E",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/1521b8f41f6b.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376928/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376928/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,14 +2437,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport AWD",
       "vin": "2HKRS4H51VH100076",
       "stock": "CR2V00E",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/25b02b6df2a0.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376929/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376929/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2091,14 +2457,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V LX 2WD",
       "vin": "2HKRS3H22VH000035",
       "stock": "CR2V03E",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/cdabad92ff99.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376930/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376930/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2108,14 +2477,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V LX 2WD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V LX AWD",
       "vin": "2HKRS4H27VH100489",
       "stock": "CR2V01E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/59fa7c37809c.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376931/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71376931/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2125,14 +2497,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V LX AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Sport AWD",
       "vin": "2HKRS6H57VH202011",
       "stock": "CX2V07E",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/2ee5dc6e47de.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398638/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398638/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2142,14 +2517,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V Sport AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L AWD",
       "vin": "2HKRS6H70VH202062",
       "stock": "CX2V09E",
       "color": "Red",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/7684d2df87d4.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398929/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398929/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2159,14 +2537,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V EX-L AWD",
       "vin": "2HKRS6H70VH201817",
       "stock": "CX2V08E",
       "color": "Silver",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/59b44b17fc52.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398930/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/cr-v/surrey/bc/71398930/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2176,14 +2557,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "CR-V EX-L AWD",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Turbo Sport Sport",
       "vin": "3CZRZ2H55VM102773",
       "stock": "HV2V08E",
       "color": "Grey",
+      "trim": "Turbo Sport Sport",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/df20c3336227.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v-turbo-sport/surrey/bc/70561792/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v-turbo-sport/surrey/bc/70561792/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2193,14 +2577,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Turbo Sport Sport",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L",
       "vin": "3CZRZ2H72VM100111",
       "stock": "HV2V02E",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/07a9d97d2845.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/70270094/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/70270094/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2210,14 +2597,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L",
       "vin": "3CZRZ2H79VM103605",
       "stock": "HV2V11E",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/345bc46cb6d9.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/70744434/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/70744434/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2227,14 +2617,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWD",
       "vin": "3CZRZ2H7XVM105461",
       "stock": "HV2V18E",
       "color": "Grey",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/56ed473c404c.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71103548/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71103548/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2244,14 +2637,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX AWD",
       "vin": "3CZRZ2H33VM104973",
       "stock": "HV2V19E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/296065223d74.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71142647/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71142647/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2261,14 +2657,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX AWD",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX",
       "vin": "3CZRZ2H39VM105982",
       "stock": "HV2V20E",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/8db925ce4357.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71252490/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/hr-v/surrey/bc/71252490/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2278,14 +2677,17 @@
       "odometer_km": 13,
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H88VB500556",
       "stock": "D2V02E",
       "color": "Grey",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/03a7d7260c79.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/odyssey/surrey/bc/71338523/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/odyssey/surrey/bc/71338523/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2295,14 +2697,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey Touring Auto",
       "vin": "5FNRL6H84VB500439",
       "stock": "D2V03E",
       "color": "White",
+      "trim": "Touring Auto",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/b6a674d66972.html",
       "source_url": "https://www.langleyhonda.com/vehicles/2027/honda/odyssey/surrey/bc/71338524/?sale_class=new",
       "dealer_url": "https://www.langleyhonda.com/vehicles/2027/honda/odyssey/surrey/bc/71338524/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2312,8 +2717,10 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Honda",
-      "model": "Odyssey Touring Auto",
-      "condition": "new"
+      "model": "Odyssey",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
