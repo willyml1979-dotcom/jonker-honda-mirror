@@ -1,6 +1,6 @@
 {
   "dealership": "Jonker Honda",
-  "generated_at": "2026-10-25T19:00:50",
+  "generated_at": "2026-10-26T04:10:16",
   "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -431,7 +431,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 42999.0,
+      "price": 43499.0,
       "price_currency": "CAD"
     },
     {
@@ -1003,7 +1003,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 30499.0,
+      "price": 29599.0,
       "price_currency": "CAD"
     },
     {
