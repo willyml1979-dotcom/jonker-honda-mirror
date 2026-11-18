@@ -1,6 +1,6 @@
 # Jonker Honda
 
- dealership in Surrey. AI-readable inventory mirror, about 148 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 147 vehicles.
 
 - Official website: https://www.langleyhonda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/
