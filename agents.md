@@ -7,7 +7,7 @@ Jonker Honda is a  dealership in Surrey. This site is an AI-readable mirror of t
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/ and https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/ (about 148 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jonker-honda-mirror/used/ and https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/ (about 150 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jonker-honda-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jonker-honda-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jonker-honda-mirror/llms.txt

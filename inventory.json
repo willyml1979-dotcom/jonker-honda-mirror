@@ -1,7 +1,7 @@
 {
   "dealership": "Jonker Honda",
-  "generated_at": "2026-11-18T14:11:48",
-  "vehicle_count": 148,
+  "generated_at": "2026-11-18T14:19:41",
+  "vehicle_count": 150,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -574,7 +574,7 @@
       "make": "Honda",
       "model": "Accord Hybrid",
       "condition": "new",
-      "price": 49765.0,
+      "price": 49865.0,
       "price_currency": "CAD"
     },
     {
@@ -1107,17 +1107,6 @@
     },
     {
       "name": "2027 Honda CR-V Hybrid EX-L",
-      "vin": "2HKRS6H73VH202301",
-      "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/0ac5d9c8d0ae.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 53035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H75VH201733",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/d774a14c2e43.html",
       "year": 2027,
@@ -1458,6 +1447,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H76VH208254",
+      "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/8aeb40a73b11.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid Touring",
+      "vin": "2HKRS6H96VH208417",
+      "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/47c89a51e9a8.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 54985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Honda CR-V Hybrid EX-L",
+      "vin": "2HKRS6H79VH208264",
+      "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/7a7c5eb8b6a9.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53035.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Honda CR-V Sport",
       "vin": "2HKRS4H58VH100379",
       "url": "https://willyml1979-dotcom.github.io/jonker-honda-mirror/new/b63ed3265254.html",
@@ -1575,7 +1597,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 42935.0,
+      "price": 43035.0,
       "price_currency": "CAD"
     },
     {
